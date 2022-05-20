@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7725b6ad-f93a-4114-8617-1d7ec8d4f6f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/make_base_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/make_feature_model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Applications/Boosting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Applications/Boosting.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Baseline-logistic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Baseline-logistic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Feature_Importance_Layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Feature_Importance_Layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/Feature_importance_check.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/standard_vis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/tensor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Feature Importance NN - Boston.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Pre-trained models.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Random_distribution.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/baseline_CNN_results.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/baseline_RNN_results.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/RNN_scripts/RNN_script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/RNN_scripts/RNN_script2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/image_script_all_images.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/Feature_Importance_Layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/Feature_Importance_Layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/baseline.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../baseline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../baseline.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../image_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../image_script.py" afterDir="false" />
     </list>
@@ -29,11 +23,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helpers/Feature_Importance_Layer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="678">
+              <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -44,7 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helpers/utilities.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="450">
+              <caret line="30" selection-start-line="30" selection-end-line="47" selection-end-column="43" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -52,10 +48,68 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/load_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-970">
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/baseline-linear-script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/make_feature_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Feature_Importance_Layer</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/make_model.py" />
+        <option value="$PROJECT_DIR$/make_feature_model.py" />
+        <option value="$PROJECT_DIR$/scripts/load_data.py" />
+        <option value="$PROJECT_DIR$/scripts/make_base_model.py" />
+        <option value="$PROJECT_DIR$/scripts/make_feature_model.py" />
+        <option value="$PROJECT_DIR$/scripts/model_training.py" />
+        <option value="$PROJECT_DIR$/model_training.py" />
+        <option value="$PROJECT_DIR$/helpers/Feature_Importance_Layer.py" />
+        <option value="$PROJECT_DIR$/load_data.py" />
+        <option value="$PROJECT_DIR$/helpers/utilities.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -74,6 +128,16 @@
               <item name="Variance_Tolerance_Factors_for_Interpreting Neural_Networks" type="b2602c69:ProjectViewProjectNode" />
               <item name="Variance_Tolerance_Factors_for_Interpreting Neural_Networks" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Variance_Tolerance_Factors_for_Interpreting Neural_Networks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Variance_Tolerance_Factors_for_Interpreting Neural_Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Variance_Tolerance_Factors_for_Interpreting Neural_Networks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Variance_Tolerance_Factors_for_Interpreting Neural_Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -84,6 +148,12 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,6 +182,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39816773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -142,48 +213,59 @@
     <entry file="file://$PROJECT_DIR$/logistic_comparison.png" />
     <entry file="file://$PROJECT_DIR$/MPL.ipynb" />
     <entry file="file://$PROJECT_DIR$/Random_distribution.ipynb" />
-    <entry file="file://$PROJECT_DIR$/helpers/Feature_importance_check.py">
+    <entry file="file://$PROJECT_DIR$/helpers/Feature_importance_check.py" />
+    <entry file="file://$PROJECT_DIR$/helpers/standard_vis.py" />
+    <entry file="file://$PROJECT_DIR$/helpers/tensor.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/RNN_scripts/RNN_script.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/baseline-logistic-script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="550">
+          <caret line="72" column="24" lean-forward="true" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/image_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="70" selection-start-line="70" selection-end-line="93" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/CNN_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-820">
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helpers/utilities.py">
+    <entry file="file://$PROJECT_DIR$/scripts/Gold_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-540">
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helpers/standard_vis.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helpers/tensor.py">
+    <entry file="file://$PROJECT_DIR$/make_base_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+          <caret column="23" lean-forward="true" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/RNN_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/RNN_scripts/RNN_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-569">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
@@ -192,7 +274,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/helpers/Feature_Importance_Layer.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_training.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret selection-end-line="17" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="47" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-970">
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/baseline-linear-script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_feature_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

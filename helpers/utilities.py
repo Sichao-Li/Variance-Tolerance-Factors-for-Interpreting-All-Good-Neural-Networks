@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 from sklearn.inspection import permutation_importance
 from sklearn.ensemble import RandomForestRegressor
 # from Ag_data import import_data
-import Feature_Importance_Layer
 from tensorflow.keras.callbacks import Callback
 from copy import copy
 import scipy.stats as ss
