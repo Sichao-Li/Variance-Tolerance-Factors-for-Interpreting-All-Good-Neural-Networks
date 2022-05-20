@@ -9,3 +9,7 @@ To install requirements:
 ```setup
 pip install -r requirements.txt
 ```
+
+## Usage
+
+To train and test models, please follow the notebooks.
