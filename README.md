@@ -7,7 +7,7 @@ This repository is the official implementation of Variance-Tolerance-Factors-for
 To install requirements:
 
 ```setup
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## Usage
