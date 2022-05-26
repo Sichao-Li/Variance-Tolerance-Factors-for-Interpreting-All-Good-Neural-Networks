@@ -1,0 +1,9 @@
+# install the following packages
+numpy
+tensorflow
+matplotlib
+sklearn
+scipy
+lime
+seaborn
+statistics
