@@ -1,4 +1,4 @@
-# Variance-Tolerance-Factors-for-Interpreting-Neural-Networks
+# Variance-Tolerance-Factors-for-Interpreting-All-Good-Neural-Networks
 
 This repository is the official implementation of Variance-Tolerance-Factors-for-Interpreting-Neural-Networks. 
 
