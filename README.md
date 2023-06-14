@@ -21,7 +21,15 @@ Pretrained models and collected results are available in [Generated_weights](./G
 
 Figure results are available in [results](./results).
 
-## Application
+## Citation
+
+```
+@INPROCEEDINGS{Li2022,
+  author={Li, Sichao and Barnard, Amanda},
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Variance Tolerance Factors For Interpreting Neural Networks}, 
+  year={2023}
+```
 
 
 
