@@ -1,6 +1,6 @@
 # Variance-Tolerance-Factors-for-Interpreting-All-Good-Neural-Networks
 
-This repository is the official implementation of [Variance-Tolerance-Factors-for-Interpreting-Neural-Networks](https://arxiv.org/abs/2209.13858).
+This repository is the official implementation of [Variance-Tolerance-Factors-for-Interpreting-ALL-Neural-Networks](https://arxiv.org/abs/2209.13858).
 The structure of the framework is shown below. 
 
 ![structure](./results/structure.png)
@@ -24,10 +24,10 @@ Figure results are available in [results](./results).
 ## Citation
 
 ```
-@INPROCEEDINGS{Li2022,
+@INPROCEEDINGS{Li2023,
   author={Li, Sichao and Barnard, Amanda},
   booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
-  title={Variance Tolerance Factors For Interpreting Neural Networks}, 
+  title={Variance Tolerance Factors For Interpreting ALL Neural Networks}, 
   year={2023}
 ```
 
