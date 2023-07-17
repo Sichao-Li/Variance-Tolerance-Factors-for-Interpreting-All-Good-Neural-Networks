@@ -26,7 +26,7 @@ Figure results are available in [results](./results).
 ```
 @INPROCEEDINGS{Li2023,
   author={Li, Sichao and Barnard, Amanda},
-  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+  booktitle={International Joint Conference on Neural Networks (IJCNN)}, 
   title={Variance Tolerance Factors For Interpreting ALL Neural Networks}, 
   year={2023}
 ```
