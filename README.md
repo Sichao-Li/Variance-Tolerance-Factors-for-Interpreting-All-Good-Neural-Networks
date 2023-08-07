@@ -21,6 +21,8 @@ Pretrained models and collected results are available in [Generated_weights](./G
 
 Figure results are available in [results](./results).
 
+For other queries and more details, drop an email to sichao.li@anu.edu.au
+
 ## Citation
 
 ```
