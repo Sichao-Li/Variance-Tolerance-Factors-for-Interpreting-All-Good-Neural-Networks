@@ -24,11 +24,13 @@ Figure results are available in [results](./results).
 ## Citation
 
 ```
-@INPROCEEDINGS{Li2023,
+@INPROCEEDINGS{Li2023VTF,
   author={Li, Sichao and Barnard, Amanda},
-  booktitle={International Joint Conference on Neural Networks (IJCNN)}, 
-  title={Variance Tolerance Factors For Interpreting ALL Neural Networks}, 
-  year={2023}
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Variance Tolerance Factors For Interpreting All Neural Networks}, 
+  year={2023},
+  pages={1-9},
+  doi={10.1109/IJCNN54540.2023.10191646}}
 ```
 
 
